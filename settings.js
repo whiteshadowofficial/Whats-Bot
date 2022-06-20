@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94761539856']
-global.premium = ['94761539856']
-global.ownernomer = '94761539856'
-global.ownername = 'Dark_Ezio'
-global.botname = 'Ai_Dark_Ezio_Wa-Bot'
-global.footer = '©Subadra_Poshitha.'
-global.ig = 'https://github.com/aidarkezio'
+global.owner = ['94763853788']
+global.premium = ['94763853788']
+global.ownernomer = '94763853788'
+global.ownername = 'Mr_White_Shadow'
+global.botname = 'Mr_White_Shadow_Wa-Bot'
+global.footer = '©Mr_White_Shadow.'
+global.ig = 'https://github.com/whiteshadowofficial'
 global.region = 'Sri Lanka, Western Province, Clombo'
 global.sc = 'https://aidarkezio.github.io'
 global.myweb = 'https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ'
-global.packname = 'Ai_Dark_Ezio_Wa-Bot'
+global.packname = 'Mr_White_Shadow_Wa-Bot'
 global.author = 'Dark_Ezio'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
